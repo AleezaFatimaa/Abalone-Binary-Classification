@@ -1,5 +1,3 @@
-# Abalone-Binary-Classification
-Linear Regression adapted for binary classification on the Abalone dataset with evaluation metrics and visualizations.
 # Abalone Binary Classification using Linear Regression
 
 ## Project Overview
@@ -12,7 +10,7 @@ Graphs and visualizations are included in the repository to help interpret model
 
 ## Dataset
 
-* Source: [UCI Abalone Dataset](https://archive.ics.uci.edu/ml/datasets/Abalone)
+* Source: [UCI Abalone Dataset]([https://archive.ics.uci.edu/ml/datasets/Abalone](https://www.kaggle.com/datasets/rodolfomendes/abalone-dataset)
 * Features: Sex, Length, Diameter, Height, Whole_weight, Shucked_weight, Viscera_weight, Shell_weight
 * Target: Rings (converted to Age = Rings + 1.5)
 * Binary target: Age above median = 1, Age below median = 0
@@ -60,15 +58,15 @@ The following visualizations are included in the `images/` folder of the reposit
 
 ### Confusion Matrix
 
-![Confusion Matrix](images/confusion_matrix.png)
+![Confusion Matrix]([images/confusion_matrix.png](https://1drv.ms/i/c/f5dcf9917a077858/IQDBs4qoget1RL5nMdg0STUgAepOWJ9Ed3ocfE4scxKwz6s?e=GyeCpA)
 
 ### ROC Curve
 
-![ROC Curve](images/roc_curve.png)
+![ROC Curve]([images/roc_curve.png](https://1drv.ms/i/c/f5dcf9917a077858/IQCdSzrVRUjjQaDCZY_A2a_aAQRVfaHsyhIM8yBjwl_gmKE?e=X3HeWs)
 
 ### Classification Metrics
 
-![Classification Metrics](images/classification_metrics.png)
+![Classification Metrics]([images/classification_metrics.png](https://1drv.ms/i/c/f5dcf9917a077858/IQBdB5H-DzMeRblhjikT3YtyARUH_Yvt4EmlsmXIOnh1y5E?e=ElXkLp)
 
 (Additional visualizations, such as predicted vs actual age, can also be added.)
 
