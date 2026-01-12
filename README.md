@@ -84,6 +84,22 @@ The following visualizations are included in the `images/` folder of the reposit
   * F1 Score ≈ 0.79
   * Confusion matrix shows more false positives than false negatives, consistent with high recall.
 
+ ## Tools Used
+
+Python – Core programming language
+
+Google Colab – Cloud-based notebook environment for development and execution
+
+Pandas – Data loading and manipulation
+
+NumPy – Numerical computations
+
+Scikit-learn – Model training, preprocessing, and evaluation metrics
+
+Matplotlib – Plotting graphs and visualizations
+
+Seaborn – Enhanced statistical visualizations (confusion matrix heatmap)
+
 ## Conclusion
 
 This project demonstrates that Linear Regression can be adapted for binary classification using thresholding. While not optimized for classification, the approach provides meaningful results and can serve as a baseline before trying logistic regression or other classifiers.
